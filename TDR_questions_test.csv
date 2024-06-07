@@ -1,0 +1,101 @@
+﻿Analyze historical security events to identify any recurring attack patterns or persistent threats.
+ Review logs to identify any usage of deprecated or insecure protocols. What steps can be taken to update or secure these protocols?
+ Investigate any unauthorized attempts to access restricted areas of the network.
+ Assess the effectiveness of Data Loss Prevention (DLP) solutions. Are they effectively preventing data breaches?
+ Review logs for any signs of unauthorized changes to system configurations.
+ Identify any instances of failed security patch deployments. What was the reason for the failures?
+ Analyze the security of remote desktop protocols in use. Are they properly secured against attacks?
+ Investigate any incidents involving unauthorized access to financial systems. What data or funds were accessed or transferred?
+ Review security logs for any signs of exfiltration via web-based applications.
+ Assess the effectiveness of multi-factor authentication (MFA) implementations. Are they properly enforced and secure?
+ Investigate any incidents of unauthorized access to backup data. How was the access gained and what data was compromised?
+ Review logs for any signs of spear phishing campaigns targeting specific individuals or departments.
+ Identify any instances of unusual USB device usage. Are there signs of unauthorized data transfer via removable media?
+ Analyze the security posture of virtual private clouds (VPCs). Are they properly isolated and secured?
+ Investigate any instances of unauthorized changes to firewall rules or policies.
+ Review security logs for any signs of brute-force attacks on administrative interfaces.
+ Assess the security of database encryption methods. Are sensitive data properly encrypted at rest and in transit?
+ Investigate any incidents involving unauthorized access to source code repositories. What code was accessed or modified?
+ Review logs for any signs of network anomalies that could indicate a man-in-the-middle attack.
+ Identify any instances of suspicious file downloads from external sources. Are these files malicious?
+ Analyze the effectiveness of security training programs. Are employees aware of and adhering to security best practices?
+ Investigate any incidents of unauthorized access to email accounts. How was access gained and what actions were taken?
+ Review security logs for any signs of unusual authentication attempts from foreign IP addresses.
+ Assess the security of remote printing solutions. Are they properly secured against unauthorized access?
+ Investigate any incidents of unauthorized access to HR systems. What employee data was accessed or compromised?
+ Review logs for any signs of data exfiltration via encrypted channels.
+ Identify any instances of unusual application usage. Are there signs of unauthorized software being used for malicious purposes?
+ Analyze the security of wireless networks. Are they properly configured and secured against unauthorized access?
+ Investigate any incidents of unauthorized access to privileged accounts.
+ Review security logs for any signs of DNS spoofing or cache poisoning attacks.
+ Assess the security of third-party APIs. Are there vulnerabilities that could be exploited by attackers?
+ Investigate any incidents of unauthorized changes to system logs.
+ Review logs for any signs of unusual activity on guest networks.
+ Identify any instances of unusual file creation or modification. Are there signs of unauthorized data manipulation?
+ Analyze the security of cloud storage solutions. Are they properly configured and secured?
+ Investigate any incidents of unauthorized access to encryption keys.
+ Review security logs for any signs of malicious scripts or code execution.
+ Assess the security of identity and access management (IAM) solutions. Are they properly configured and effective?
+ Investigate any incidents of unauthorized access to system management consoles.
+ Review logs for any signs of unusual process execution on critical systems.
+ Identify any instances of unusual network scanning activity. Are there signs of unauthorized reconnaissance?
+ Analyze the effectiveness of network segmentation. Are critical systems properly isolated from potential threats?
+ Investigate any incidents of unauthorized access to payment gateways.
+ Review security logs for any signs of unusual network traffic patterns that could indicate covert communication channels.
+ Assess the security of virtualization management platforms. Are they properly configured and secured?
+ Investigate any incidents of unauthorized access to collaboration tools and platforms.
+ Review logs for any signs of unusual changes to user permissions or roles.
+ Identify any instances of unauthorized access to web application servers.
+ Analyze the effectiveness of endpoint detection and response (EDR) solutions. Are they detecting and mitigating threats effectively?
+ Investigate any incidents of unauthorized access to network monitoring tools.
+ Review security logs for any signs of unusual DNS requests.
+ Assess the security of single sign-on (SSO) solutions. Are they properly configured and effective?
+ Investigate any incidents of unauthorized access to physical access control systems.
+ Review logs for any signs of unusual data transfer volumes.
+ Identify any instances of unusual database query activity. Are there signs of data extraction or manipulation?
+ Analyze the security of mobile device management (MDM) solutions. Are they properly configured and effective?
+ Investigate any incidents of unauthorized access to DevOps tools and environments.
+ Review security logs for any signs of unusual user activity following a password reset.
+ Assess the security of web browsers used within the organization. Are they properly configured and updated?
+ Investigate any incidents of unauthorized access to analytics and reporting tools.
+ Review logs for any signs of unusual email forwarding rules.
+ Identify any instances of unusual network congestion or delays. Are there signs of network attacks?
+ Analyze the security of file transfer protocols in use. Are they properly configured and secured?
+ Investigate any incidents of unauthorized access to marketing and sales systems.
+ Review security logs for any signs of unusual system reboots or shutdowns.
+ Assess the security of Internet of Medical Things (IoMT) devices in use. Are they properly secured?
+ Investigate any incidents of unauthorized access to customer support systems.
+ Review logs for any signs of unusual user account creations or deletions.
+ Identify any instances of unauthorized access to intellectual property repositories.
+ Analyze the security of password management solutions in use. Are they properly configured and effective?
+ Investigate any incidents of unauthorized access to document management systems.
+ Review security logs for any signs of unusual configuration changes to security appliances.
+ Assess the security of machine learning and artificial intelligence systems. Are they properly secured?
+ Investigate any incidents of unauthorized access to video conferencing systems.
+ Review logs for any signs of unusual printer activity.
+ Identify any instances of unusual application installation or uninstallation. Are there signs of unauthorized software management?
+ Analyze the security of remote learning platforms in use. Are they properly configured and secured?
+ Investigate any incidents of unauthorized access to financial transaction logs.
+ Review security logs for any signs of unusual network port activity.
+ Assess the security of robotic process automation (RPA) systems in use. Are they properly secured?
+ Investigate any incidents of unauthorized access to contract management systems.
+ Review logs for any signs of unusual data replication activities.
+ Identify any instances of unauthorized access to network storage systems.
+ Analyze the security of virtual desktop infrastructure (VDI) solutions. Are they properly configured and secured?
+ Investigate any incidents of unauthorized access to procurement and supply chain systems.
+ Review security logs for any signs of unusual user activity in sandbox environments.
+ Assess the security of endpoint encryption solutions. Are they properly configured and effective?
+ Investigate any incidents of unauthorized access to social media accounts used by the organization.
+ Review logs for any signs of unusual activity on critical infrastructure systems.
+ Identify any instances of unauthorized access to virtual machines or containers.
+ Analyze the security of blockchain applications in use. Are they properly configured and secured?
+ Investigate any incidents of unauthorized access to training and e-learning systems.
+ Review security logs for any signs of unusual activity following software updates or patches.
+ Assess the security of electronic health record (EHR) systems in use. Are they properly secured?
+ Investigate any incidents of unauthorized access to communication networks.
+ Review logs for any signs of unusual user activity involving privileged commands or operations.
+ Identify any instances of unauthorized access to voice recognition systems.
+ Analyze the security of streaming media services in use. Are they properly configured and secured?
+ Investigate any incidents of unauthorized access to research and development systems.
+ Review security logs for any signs of unusual IoT device behavior.
+ Assess the security of firmware updates for critical devices. Are they properly managed and secured?
